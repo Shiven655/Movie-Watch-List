@@ -7,7 +7,7 @@ let allMovies = [
     watched: false,
   },
   {
-    name: "The Dark Knight",
+    name: "Dark Knight",
     watched: true,
   }
 ];
